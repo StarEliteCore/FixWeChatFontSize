@@ -2,4 +2,5 @@
 # Example: Change dpi
 
 ro.sf.lcd_density=310
+
 persist.miui.density_v2=310
