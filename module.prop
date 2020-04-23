@@ -1,7 +1,7 @@
 id=202004042003
 name=Fix WeChat FontSize
 version=2020.04.04
-versionCode=6
+versionCode=7
 author=So魚丸丷
 description=不修改系统文件修正没有客服没有开发微信字号问题,修改DPI为310
 minMagisk=19.0
